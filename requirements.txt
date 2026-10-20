@@ -1,0 +1,8 @@
+GEOparse
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+requests
+notebook
